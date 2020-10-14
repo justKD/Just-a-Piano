@@ -6,7 +6,7 @@ Rather than trying to recreate a physical synth keyboard experience, Just a Pian
 
 Each keyboard can be scrolled to an independent note range, and the width/number of keys can be customized in order to suit the user device or preference.
 
-<img src="https://github.com/justKD/Just-a-Piano/blob/main/media/phone/screenshot_1.png?raw=true" width="500">
-<img src="https://github.com/justKD/Just-a-Piano/blob/main/media/phone/screenshot_2.png?raw=true" width="500">
-<img src="https://github.com/justKD/Just-a-Piano/blob/main/media/phone/screenshot_3.png?raw=true" width="500">
-<img src="https://github.com/justKD/Just-a-Piano/blob/main/media/phone/screenshot_4.png?raw=true" width="500">
+<img src="https://github.com/justKD/Just-a-Piano/blob/main/media/phone/screenshot_1.jpg?raw=true" width="500">
+<img src="https://github.com/justKD/Just-a-Piano/blob/main/media/phone/screenshot_2.jpg?raw=true" width="500">
+<img src="https://github.com/justKD/Just-a-Piano/blob/main/media/phone/screenshot_3.jpg?raw=true" width="500">
+<img src="https://github.com/justKD/Just-a-Piano/blob/main/media/phone/screenshot_4.jpg?raw=true" width="500">
