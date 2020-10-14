@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>32000</string>
+	<string>Marimba Deadstroke D3.aif</string>
+	<string>38</string>
+	<string>38</string>
+	<string>Marimba Deadstroke F#3.aif</string>
+	<string>42</string>
+	<string>42</string>
+	<string>Marimba Deadstroke A#3.aif</string>
+	<string>46</string>
+	<string>46</string>
+	<string>Marimba Deadstroke D4.aif</string>
+	<string>50</string>
+	<string>50</string>
+	<string>Marimba Deadstroke F#4.aif</string>
+	<string>54</string>
+	<string>54</string>
+	<string>Marimba Deadstroke A#4.aif</string>
+	<string>58</string>
+	<string>58</string>
+	<string>Marimba Deadstroke D5.aif</string>
+	<string>62</string>
+	<string>62</string>
+	<string>Marimba Deadstroke F#5.aif</string>
+	<string>66</string>
+	<string>66</string>
+	<string>Marimba Deadstroke A#5.aif</string>
+	<string>70</string>
+	<string>70</string>
+	<string>Marimba Deadstroke D6.aif</string>
+	<string>74</string>
+	<string>74</string>
+	<string>Marimba Deadstroke F#6.aif</string>
+	<string>78</string>
+	<string>78</string>
+	<string>Marimba Deadstroke C7.aif</string>
+	<string>84</string>
+	<string>84</string>
+	<string>Marimba Deadstroke F#7.aif</string>
+	<string>90</string>
+	<string>90</string>
+	<string>Marimba Deadstroke A#7.aif</string>
+	<string>94</string>
+	<string>94</string>
+</array>
+</plist>
